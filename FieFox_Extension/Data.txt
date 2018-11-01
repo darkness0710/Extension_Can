@@ -1,0 +1,13 @@
+Visa|4737024968207300|06|22|Nikoda Grant|Nikoda|Grant|AP|AP|NJ|07724|test@gmail.com|7325421482|aha-resadmin2@housingall.org|1971
+Visa|4737024968207300|6|2022|Nikoda Grant|Nikoda|Grant|AP|AP|NJ|07724|U.S.1A.|7325421482|aha-resadmin2@housingall.org|1971
+Visa|4737024968207300|6|2022|Nikoda Grant|Nikoda|Grant|AP|AP|NJ|07724|U.S.2A.|7325421482|aha-resadmin2@housingall.org|1971
+Visa|4737024968207300|6|2022|Nikoda Grant|Nikoda|Grant|AP|AP|NJ|07724|U.S.A.|7325421482|aha-resadmin2@housingall.org|1971
+Visa|4737024968207300|6|2022|Nikoda Grant|Nikoda|Grant|AP|AP|NJ|07724|U.S.A2.|7325421482|aha-resadmin2@housingall.org|1971
+Visa|4737024968207300|6|2022|Nikoda Grant|Nikoda|Grant|AP|AP|NJ|07724|U.S.A.2|7325421482|aha-resadmin2@housingall.org|1971
+Visa|4737024968207300|6|2022|Nikoda Grant|Nikoda|Grant|AP|AP|NJ|07724|U.S.23A.|7325421482|aha-resadmin2@housingall.org|1971
+Visa|4737024968207300|6|2022|Nikoda Grant|Nikoda|Grant|AP|AP|NJ|07724|U.S222.A.|7325421482|aha-resadmin2@housingall.org|1971
+Visa|4737024968207300|6|2022|Nikoda Grant|Nikoda|Grant|AP|AP|NJ|07724|U.S.2222A.|7325421482|aha-resadmin2@housingall.org|1971
+Visa|4737024968207300|6|2022|Nikoda Grant|Nikoda|Grant|AP|AP|NJ|07724|U.S.22222A.|7325421482|aha-resadmin2@housingall.org|1971
+Visa|4737024968207300|6|2022|Nikoda Grant|Nikoda|Grant|AP|AP|NJ|07724|U.S.A.|7325421482|aha-resadmin2@housingall.org|1971
+Visa|4737024968207300|6|2022|Nikoda Grant|Nikoda|Grant|AP|AP|NJ|07724|U.S.A.|7325421482|aha-resadmin2@housingall.org|1971
+Visa|4737024968207300|6|2022|Nikoda Grant|Nikoda|Grant|AP|AP|NJ|07724|U.S.A.|7325421482|aha-resadmin2@housingall.org|1971

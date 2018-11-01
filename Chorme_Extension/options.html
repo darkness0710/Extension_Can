@@ -1,0 +1,103 @@
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="./medias/css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="./medias/css/style.css">
+        <title>Darkness0710 Tool Options</title>
+        <script src="./medias/js/lodash.min.js"></script>
+        <script src="./medias/js/jquery.min.js"></script>
+        <script src="./medias/js/options.js"></script>
+    </head>
+    <body>
+        <div class="row container">
+            <div class="row">
+                <div class="col-md-4 col-md-offset-5"><h1>Tool File Billing</h1></div>
+            </div>
+            <div class="col-md-offset-3 col-md-4">
+                <label class="btn btn-default btn-file">
+                    <input type='file' name="main_file" accept='text/plain' id="main_file" />
+                </label>
+            </div>
+            <button class="btn btn-small btn-primary" id="process_main_file">Process File Data</button>
+            <br>
+        </div>
+
+        <!-- Alert -->
+        <br>
+        <div class="row">
+            <div class="col-md-8 col-md-offset-1">
+                <div class="alert alert-success hidden" role="alert" id="success-alert">
+                  Process Data File Success
+                </div>
+            </div>
+        </div>
+
+        <br>
+        <div class="row container">
+            <div class="col-md-offset-1 col-md-4">
+                <label>First Name</label>
+                <input type="number" class="form-control" name="config_dwfrm_personinf_billtoaddress_firstName" id="config_dwfrm_personinf_billtoaddress_firstName" value="4">
+            </div>
+            <div class="col-md-offset-1 col-md-4">
+                <label>Last Name</label>
+                <input type="number" class="form-control" name="config_dwfrm_personinf_billtoaddress_lastName" id="config_dwfrm_personinf_billtoaddress_lastName" value="5">
+            </div>
+        </div>
+        <div class="row container">
+            <div class="col-md-offset-1 col-md-4">
+                <label>Address 1</label>
+                <input type="number" class="form-control" name="config_dwfrm_personinf_billtoaddress_address1" id="config_dwfrm_personinf_billtoaddress_address1" value="6">
+            </div>
+            <div class="col-md-offset-1 col-md-4">
+                <label>City</label>
+                <input type="number" class="form-control" name="config_dwfrm_personinf_billtoaddress_city" id="config_dwfrm_personinf_billtoaddress_city" value="7">
+            </div>
+        </div>
+        <div class="row container">
+            <div class="col-md-offset-1 col-md-4">
+                <label>State</label>
+                <input type="number" class="form-control" name="config_dwfrm_personinf_billtoaddress_states_state" id="config_dwfrm_personinf_billtoaddress_states_state" value="8">
+            </div>
+            <div class="col-md-offset-1 col-md-4">
+                <label>Zip</label>
+                <input type="number" class="form-control" name="config_dwfrm_personinf_billtoaddress_zip" id="config_dwfrm_personinf_billtoaddress_zip" value="9">
+            </div>
+        </div>
+        <div class="row container">
+            <div class="col-md-offset-1 col-md-4">
+                <label>Phone</label>
+                <input type="number" class="form-control" name="config_dwfrm_personinf_contact_daytimephone" id="config_dwfrm_personinf_contact_daytimephone" value="10"></div>
+            <div class="col-md-offset-1 col-md-4">
+                <label>Email</label>
+                <input type="number" class="form-control" name="config_dwfrm_personinf_contact_email" id="config_dwfrm_personinf_contact_email" value="11">
+            </div>
+        </div>
+        <div class="row container">
+            <div class="col-md-offset-1 col-md-4">
+                <label>Card Number</label>
+                <input type="number" class="form-control" name="config_dwfrm_personinf_creditcard_number" id="config_dwfrm_personinf_creditcard_number" value="1">
+            </div>
+            <div class="col-md-offset-1 col-md-4">
+                <label>Card Month</label>
+                <input type="number" class="form-control" name="config_creditCardMonth" id="config_creditCardMonth" value="2">
+            </div>
+        </div>
+        <div class="row container">
+            <div class="col-md-offset-1 col-md-4">
+                <label>Card year</label>
+                <input type="number" class="form-control" name="config_creditCardYear" id="config_creditCardYear" value="3">
+            </div>
+
+            <!-- format emai -->
+            <div class="col-md-offset-1 col-md-4">
+                <label class="input-group-text" for="email_options">Options Emails</label>
+                <input type="text" class="form-control" name="email_options" id="email_options" value="@gmail.com|@yahoo.com|@hotmail.com">
+            </div>
+
+             <div class="col-md-offset-1 col-md-4">
+                <label class="input-group-text" for="password_options">Options Password</label>
+                <input type="text" class="form-control" name="password_options" id="password_options" value="123456789">
+            </div>
+        </div>
+        <br>
+    </body>
+</html>
